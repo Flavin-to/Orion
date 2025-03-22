@@ -20,13 +20,26 @@ Welcome to the **Orion** repository, a Discord bot focused on **player registrat
 ### ⚙️ Economy (Coming Soon!)
 - In the future, Orion will include an integrated economy system to enhance the player experience!
 
+### 🎮 New Commands
+- **/registro** - Start the player registration process.
+- **/limparchat** - Clear messages from a channel.
+- **/ban** - Ban a user from the server.
+- **/kick** - Kick a user from the server.
+- **/mute** - Mute a user in voice chat.
+- **/castigo** - Apply a punishment to a user.
+
 ---
 
 ## 📜 Commands
 
-| Command     | Description |
-|------------|------------|
-| `/registro` | Starts the player registration process. |
+| Command         | Description                                 |
+|-----------------|---------------------------------------------|
+| `/registro`     | Starts the player registration process.     |
+| `/limparchat`   | Cleans messages from a channel.            |
+| `/ban`          | Bans a user from the server.               |
+| `/kick`         | Kicks a user from the server.              |
+| `/mute`         | Mutes a user.                              |
+| `/castigo`      | Applies a punishment to a user.            |
 
 ---
 
